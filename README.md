@@ -36,7 +36,7 @@ This project was implemented as part of an academic exploration in **embedded sy
 | Crystal Oscillator    | 11.0592 MHz for accurate timing         |
 | Power                 | +5V                                    |
 | Resistors, Capacitors | Standard passive components            |
-| Breadboard / PCB      | For assembly and testing                |
+| Breadboard            | For assembly and testing                |
 
 ---
 
