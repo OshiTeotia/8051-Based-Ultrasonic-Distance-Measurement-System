@@ -34,7 +34,7 @@ This project was implemented as part of an academic exploration in **embedded sy
 | HC-SR04               | Ultrasonic sensor for distance sensing  |
 | 16x2 LCD              | HD44780 controller-based character LCD |
 | Crystal Oscillator    | 11.0592 MHz for accurate timing         |
-| 7805 Regulator        | +5V power supply                        |
+| Power                 | +5V                                    |
 | Resistors, Capacitors | Standard passive components            |
 | Breadboard / PCB      | For assembly and testing                |
 
